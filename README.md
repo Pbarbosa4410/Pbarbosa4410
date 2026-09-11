@@ -118,7 +118,7 @@ Complete DevOps project integrating a Go application with Docker, Nginx, Prometh
 ## 📫 Contact
 
 - GitHub: https://github.com/Pbarbosa4410
-- LinkedIn: COLOQUE_AQUI_SEU_LINKEDIN
+- LinkedIn: [COLOQUE_AQUI_SEU_LINKEDIN](https://www.linkedin.com/in/paulo-barbosa4410/)
 <!--
 **Pbarbosa4410/Pbarbosa4410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
