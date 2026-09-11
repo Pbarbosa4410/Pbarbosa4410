@@ -174,12 +174,12 @@ Busco contribuir com times que valorizam automação, qualidade, confiabilidade,
 # 📫 Contato
 
 - GitHub: [github.com/Pbarbosa4410](https://github.com/Pbarbosa4410)
-- LinkedIn: COLOQUE_AQUI_O_SEU_LINKEDIN
+- LinkedIn: (https://www.linkedin.com/in/paulo-barbosa4410/)
 
 ---
 
 ⭐ Sempre evoluindo em automação, cloud, infraestrutura e observabilidade.
-- LinkedIn: (https://www.linkedin.com/in/paulo-barbosa4410/)
+
 <!--
 **Pbarbosa4410/Pbarbosa4410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
